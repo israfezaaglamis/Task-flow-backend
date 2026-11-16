@@ -18,9 +18,9 @@ It is designed to work with the TaskFlow frontend application.
 - JSON request and response handling
 - 
 <img width="700" height="393" alt="get" src="https://github.com/user-attachments/assets/eec1dc47-ad82-4ac9-b15b-94ffd6c785b9" />
+<img width="700" height="358" alt="Ekran görüntüsü 2026-11-16 114545" src="https://github.com/user-attachments/assets/942c61f9-a406-46cb-9251-f5e43cd6ffb6" />
 <img width="700" height="358" alt="delete 200" src="https://github.com/user-attachments/assets/730d7bc0-9717-4347-973a-4681d17bd32e" />
 <img width="700" height="393" alt="priority update" src="https://github.com/user-attachments/assets/126a20d1-04d2-47e0-bca6-f04b5018de54" />
-<img width="700" height="393" alt="Ekran görüntüsü 2026-11-15 172253" src="https://github.com/user-attachments/assets/5f45103e-6449-4a63-bfd4-eefb91e88668" />
 
 
 ## Tech Stack
